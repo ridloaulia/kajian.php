@@ -1,0 +1,148 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://www.instagram.com/p/B5o4GknFetX/?utm_source=ig_web_copy_link",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover",
+          "backgroundColor": "#B94141",
+          "action": {
+            "type": "uri",
+            "label": "Ingat Aku",
+            "uri": "https://www.instagram.com/p/B5o4GknFetX/?utm_source=ig_web_copy_link"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Ustadz Hanan Attaki",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Ingat Aku",
+                  "flex": 0,
+                  "size": "xl",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Tonton Sekarang",
+                "uri": "https://www.instagram.com/p/B5o4GknFetX/?utm_source=ig_web_copy_link"
+              },
+              "color": "#55BD31",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://www.instagram.com/p/B5c08WoFe8i/",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover",
+          "backgroundColor": "#86BD29"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Ust. Hanan Attaki",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "flex": 1,
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Lelah",
+                  "flex": 0,
+                  "size": "xl",
+                  "weight": "regular",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Tonton Sekarang",
+                "uri": "https://www.instagram.com/p/B5c08WoFe8i/"
+              },
+              "color": "#55BD31",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Kajian Lainnya",
+                "uri": "https://www.instagram.com/hanan_attaki/"
+              },
+              "flex": 1,
+              "gravity": "center"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
